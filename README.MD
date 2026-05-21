@@ -26,6 +26,23 @@ This project focuses on analyzing user behavior and conversion patterns using Po
 - Daily User Activity Trend
 - Interactive Filters
 
+##Project Structure
+FUTURE_DS_03_Marketing_Funnel_Analysis/
+│
+├── Dataset/
+│   ├── home_page_table.csv
+│   ├── search_page_table.csv
+│   ├── payment_page_table.csv
+│   ├── payment_confirmation_table.csv
+│   └── user_table.csv
+│
+├── Dashboard_Screenshots/
+│   └── dashboard.png
+│
+├── FUTURE_DS_03.pbix
+│
+└── README.md
+
 ## Key Insights
 - Significant user drop-off occurs before purchase confirmation
 - Mobile users dominate platform traffic
